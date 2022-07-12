@@ -1,11 +1,14 @@
 Principal Investigator:
 ======================
-Prof. September Alison
+Prof. September Alison,
 Professor and Head of Division of Exercise Science and Sports Medicine, 
 Department of Human Biology, University of Cape Town
 Email: alison.september@uct.ac.za
+-----
 Mobile: +278367107009
+------
 Phone: +27 21 650 4559
+------
 
 Study Aims
 ==========
